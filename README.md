@@ -171,19 +171,7 @@ Este proyecto fue posible gracias a la organización de Hackathon por parte de [
 Proyecto creado por:
 
 <table style="display: flex; justify-content: center;">
-  <p align="center">
-    <img src="https://github.com/Catriel-Escobar.png?size=100" alt="Catriel Escobar" style="border-radius: 50%; width: 100px; height: 100px;">
-    <br>
-    <strong>Catriel Escobar</strong> | Full-Stack
-</p>
-<p align="center">
-     <a href="https://github.com/Catriel-Escobar" style="text-decoration: none;">
-          <img src="https://img.shields.io/badge/GitHub-CatrielEscobar-blue" alt="GitHub">
-        </a>
-   <a href="https://www.linkedin.com/in/catrielescobar/" style="text-decoration: none;">
-          <img src="https://img.shields.io/badge/LinkedIn-Catriel%20Escobar-blue?style=flat-square" alt="LinkedIn">
-        </a>
-</p>
+  
   <tr align="center">
     <td>
       <div style="display: flex; align-items: center;">
@@ -224,23 +212,7 @@ Proyecto creado por:
       </div>
     </td>
   </tr>
-  <tr align="center">
-   <td>
-      <div style="display: flex; align-items: center;">
-        <img src="https://github.com/DVTecno.png?size=100" alt="Diego Veras" style="border-radius: 50%; margin-right: 10px;">
-        <p>
-          <strong>Diego Veras</strong> | Back-End
-        </p>
-      </div>
-      <div>
-        <a href="https://github.com/DVTecno" style="text-decoration: none;">
-          <img src="https://img.shields.io/badge/GitHub-DVTecno-blue" alt="GitHub">
-        </a>
-        <a href="https://www.linkedin.com/in/diego-cristian-alfredo-v-54b459249/" style="text-decoration: none;">
-          <img src="https://img.shields.io/badge/LinkedIn-Diego_Cristian_Alfredo_Veras-blue" alt="LinkedIn">
-        </a>
-      </div>
-    </td>
+  <tr align="center">   
     <td>
       <div style="display: flex; align-items: center;">
         <img src="https://github.com/HikingCarrot7.png?size=100" alt="Nicolás Ibarra" style="border-radius: 50%; margin-right: 10px;">
@@ -257,33 +229,14 @@ Proyecto creado por:
         </a>
       </div>
     </td>
-
   </tr>
 </table>
 
-<p align="center">
-    <img src="https://github.com/MatiasJB95.png?size=100" alt="Matías JB" style="border-radius: 50%; width: 100px; height: 100px;">
-    <br>
-    <strong>Matías JB</strong> | Team Leader
-</p>
 
-<p align="center"> Matías desempeñó un papel esencial como TL en este proyecto, apoyando al equipo en cada etapa. Su capacidad para gestionar los desafíos y mantener la moral alta, incluso en momentos difíciles, fue fundamental. Siempre disponible para escuchar y ofrecer soluciones, su acompañamiento continuo permitió que el equipo avanzara con confianza, garantizando la finalización exitosa del proyecto. </p>
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/matiasjb95/"><img src="https://img.shields.io/badge/LinkedIn-Matias%20JB-blue" alt="LinkedIn"></a>
-    <a href="https://github.com/MatiasJB95"><img src="https://img.shields.io/badge/GitHub-MatiasJB95-blue" alt="GitHub"></a>
-</p>
 
 <br>
 
 
-## Nota Importante
-
-Es una pena que este proyecto, completamente funcional y terminado, no haya podido ser presentado al cliente.  
-Curiosamente, NoCountry decidió priorizar otros proyectos aún sin terminar y ni siquiera se tomó el tiempo de mirar este trabajo terminado.  
-A pesar de todo, agradecemos la experiencia y esperamos que este esfuerzo sea valorado en algún momento.
-
-\- Diego Veras  | Backend
 
 
 <br>
